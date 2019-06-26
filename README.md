@@ -13,7 +13,7 @@ Power on ATX remotely
 
 ## Schemtics
 
-[IMAGE]
+![Remote ATX power board](atx-power-board-prototype.jpg?raw=true)
 
 ## Usage
 
