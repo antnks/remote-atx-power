@@ -11,7 +11,7 @@ Power on ATX remotely
 * 12 pins
 
 
-## Schemtics
+## Schematics
 
 ![Remote ATX power board](atx-power-board-prototype.jpg?raw=true)
 
