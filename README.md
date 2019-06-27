@@ -13,6 +13,14 @@ Power on ATX remotely
 
 ## Schematics
 
+Disconnect computer case panel's led and power button wires from your ATX mainboard and connect them to the remote board. Using dupont wires connect atx pins accordingly to the remote board so atx led+ is connected to panel's led+, atx led- to panel's led-, and same for power button contacts. Using dupont cables connect ground, gpioA and gpioB to any free digital gpio of your WiringPi compatible dev board. You will have to specify your PIN numbers in the action.sh script
+
+Schema:
+
+![Remote ATX power board](atx-power-schematics.jpg)
+
+Physical board prototype:
+
 ![Remote ATX power board](atx-power-board-prototype.jpg?raw=true)
 
 ## Usage
