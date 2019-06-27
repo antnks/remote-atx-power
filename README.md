@@ -6,9 +6,10 @@ Power on ATX remotely
 
 * WiringPi compatible board (Raspberry Pi, Orange Pi, Odroid etc)
 * 8 dupont female-female cables
-* 2 resistors 
-* 2 opto couplers
+* 2 resistors (tested with 100 Ohms)
+* 2 opto couplers (tested with 817)
 * 12 pins
+* (optionally) breadboard or prototype pcb
 
 
 ## Schematics
