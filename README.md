@@ -44,4 +44,4 @@ Note: if the server is on the button will not be pressed to avoid accidental shu
 
 To shutdown:
 
-`./action off`
+`./action.sh off`
